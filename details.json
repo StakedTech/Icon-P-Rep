@@ -1,0 +1,28 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "https://raw.githubusercontent.com/iconsolidation/icon-prep-about/master/logo/filename.png",
+      "logo_1024": "https://raw.githubusercontent.com/iconsolidation/icon-prep-about/master/logo/filename.png",
+      "logo_svg": ""
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/iCONsolidation",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "DE",
+      "city": "Falkenstein"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "49.12.5.98:9000"
+  }
+}
