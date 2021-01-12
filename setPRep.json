@@ -1,16 +1,16 @@
 {
   "representative": {
     "logo": {
-      "logo_256": "https://raw.githubusercontent.com/iCONsolidation/Icon-P-Rep/master/icon_cro_logo256.png",
-      "logo_1024": "https://raw.githubusercontent.com/iCONsolidation/Icon-P-Rep/master/icon_cro_logo1024.png",
+      "logo_256": "https://raw.githubusercontent.com/StakedTech/Icon-P-Rep/master/icon_cro_logo256.png",
+      "logo_1024": "https://raw.githubusercontent.com/StakedTech/Icon-P-Rep/master/icon_cro_logo1024.png",
       "logo_svg": ""
     },
     "media": {
       "steemit": "",
-      "twitter": "",
+      "twitter": "@StakedTech",
       "youtube": "",
       "facebook": "",
-      "github": "https://github.com/iCONsolidation",
+      "github": "https://github.com/StakedTech",
       "reddit": "",
       "keybase": "",
       "telegram": "",
@@ -19,10 +19,10 @@
   },
   "server": {
     "location": {
-      "country": "DE",
-      "city": "Falkenstein"
+      "country": "FI",
+      "city": "Helsinki"
     },
     "server_type": "cloud",
-    "api_endpoint": "49.12.5.98:9000"
+    "api_endpoint": "135.181.27.43:9000"
   }
 }
